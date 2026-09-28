@@ -1,4 +1,4 @@
-package gamingconsolereport;
+package gamingconsolereport; 
 
 public class GamingConsoleReport {
     public static void main(String[] args) {
